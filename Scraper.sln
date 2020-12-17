@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{02A90F35-0283-49D0-A78D-C4EABC7DA54E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scraper", "Scraper\Scraper.csproj", "{431222D9-4BF8-4782-9EAF-B43A5D5F990B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02A90F35-0283-49D0-A78D-C4EABC7DA54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A90F35-0283-49D0-A78D-C4EABC7DA54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A90F35-0283-49D0-A78D-C4EABC7DA54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A90F35-0283-49D0-A78D-C4EABC7DA54E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{431222D9-4BF8-4782-9EAF-B43A5D5F990B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431222D9-4BF8-4782-9EAF-B43A5D5F990B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431222D9-4BF8-4782-9EAF-B43A5D5F990B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431222D9-4BF8-4782-9EAF-B43A5D5F990B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5544733-4E44-442D-BDC1-F8233E34E029}
+	EndGlobalSection
+EndGlobal
