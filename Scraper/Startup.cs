@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
-using ILocationService = Bloop.Core.Services.Interfaces.ILocationService;
+using ILocationService = Core.Services.ILocationService;
 
 namespace Bloop.LocationScraper
 {

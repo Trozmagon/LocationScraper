@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using Core.Data;
 using Core.Models;
-using Bloop.Core.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
-namespace Bloop.Core.Services
+namespace Core.Services
 {
     public class LocationService : ILocationService
     {

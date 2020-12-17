@@ -1,6 +1,5 @@
-﻿using Bloop.Core.Data;
-using Bloop.Core.Services;
-using Bloop.Core.Services.Interfaces;
+﻿using Core.Data;
+using Core.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;

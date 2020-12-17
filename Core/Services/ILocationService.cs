@@ -1,7 +1,7 @@
 ﻿using Core.Models;
 using System.Collections.Generic;
 
-namespace Bloop.Core.Services.Interfaces
+namespace Core.Services
 {
     public interface ILocationService
     {
